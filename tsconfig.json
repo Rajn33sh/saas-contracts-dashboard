@@ -17,6 +17,6 @@
     "noEmit": true,
     "incremental": true,
     "jsx": "react-jsx"
-  },
-  // "files": []
+    },
+    "include": ["src"]
 }
