@@ -18,5 +18,5 @@
     "incremental": true,
     "jsx": "react-jsx"
   },
-  "files": []
+  // "files": []
 }
